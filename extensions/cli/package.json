@@ -1,7 +1,7 @@
 {
   "name": "@continuedev/cli",
   "version": "0.0.0-dev",
-  "description": "Continue CLI",
+  "description": "这是段皋翔的code copilot",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "type": "module",
